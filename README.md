@@ -9,5 +9,5 @@
 
 ## ATV 2
 * Enunciado: Criar também o método transferir que recebe por parâmetro um objetos conta que será o beneficiário da transferência e o valor que será transferido.
-    ![Enunciado](hhttps://i.imgur.com/RLVFDOl.png)
+    ![Enunciado](https://i.imgur.com/BZEA54e.png)
 * Solução [ATV2](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV2)
