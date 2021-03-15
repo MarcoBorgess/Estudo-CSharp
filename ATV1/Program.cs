@@ -6,16 +6,8 @@ namespace ATV1
     {
         static void Main(string[] args)
         {
-            Conta C1 = new Conta();
-            C1.Nome = ("Maria");
-            C1.Numero = (1010);
-            C1.Saldo = (200.00);
-
-            ContaEmpresa C2 = new ContaEmpresa();
-            C2.Nome = ("Antonio");
-            C2.Numero = (1234);
-            C2.Saldo = (15000.00);
-            C2.LimiteEmprestimo = (5000.00);
+            Conta C1 = new Conta("Maria", 1010, 200.00);
+            ContaEmpresa C2 = new ContaEmpresa("Antonio", 1234, 15000.00, 5000.00);
 
             Console.WriteLine("Saldo Atual do "+C1.Nome+" : $"+C1.Saldo);
             C1.Depositar(300.00);
