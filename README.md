@@ -15,9 +15,9 @@
 ## ATV 3
 * Enunciado: 
     ![Enunciado](https://i.imgur.com/NnCHPBq.png)
-* Solução [ATV2](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV3)
+* Solução [ATV3](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV3)
 
 ## ATV 4
 * Enunciado:
     ![Enunciado](https://i.imgur.com/IWlX3i2.png)
-* Solução [ATV2](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV4)
+* Solução [ATV4](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV4)
