@@ -2,7 +2,7 @@ namespace ATV4
 {
     public class ProdutoUsado : Produto
     {
-        public string anoFabr { get; set; }
+        public int anoFabr { get; set; }
 
         public override string PrecoEtiqueta()
         {

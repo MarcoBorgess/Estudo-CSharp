@@ -6,8 +6,11 @@ namespace ATV4
 
         public override string PrecoEtiqueta()
         {
-            preco+= taxaImportacao;
-            return (nome + " $" + preco.ToString("F2") + " (taxa de importação $" + taxaImportacao + ")");
+            return (nome + " $" + PrecoTotal().ToString("F2") + " (taxa de importação $" + taxaImportacao + ")");
+        }
+        public double PrecoTotal()
+        {
+            return preco+taxaImportacao;
         }
     }
 }
