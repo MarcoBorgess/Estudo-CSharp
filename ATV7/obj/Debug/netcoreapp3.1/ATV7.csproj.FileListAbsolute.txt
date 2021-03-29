@@ -1,0 +1,13 @@
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.csprojAssemblyReference.cache
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.AssemblyInfo.cs
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\bin\Debug\netcoreapp3.1\ATV7.exe
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\bin\Debug\netcoreapp3.1\ATV7.deps.json
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\bin\Debug\netcoreapp3.1\ATV7.runtimeconfig.json
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\bin\Debug\netcoreapp3.1\ATV7.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\bin\Debug\netcoreapp3.1\ATV7.dll
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\bin\Debug\netcoreapp3.1\ATV7.pdb
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.dll
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.pdb
+C:\xampp\htdocs\C#\Estudo-CSharp\ATV7\obj\Debug\netcoreapp3.1\ATV7.genruntimeconfig.cache
