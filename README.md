@@ -31,3 +31,8 @@
 * Enunciado:
     ![Enunciado](https://i.imgur.com/Zv5HBHb.png)
 * Solução [ATV6](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV6)
+
+## ATV 7
+* Enunciado:
+    ![Enunciado](https://i.imgur.com/m5Z7KWl.png)
+* Solução [ATV7](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV7)
