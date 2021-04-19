@@ -34,7 +34,7 @@
 
 ## ATV 7
 * Enunciado:
-    ![Enunciado](https://i.imgur.com/m5Z7KWl.png)
+    ![Enunciado](https://i.imgur.com/zrDFWSb.png)
 * Solução [ATV7](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV7)
 
 ## ATV 8
