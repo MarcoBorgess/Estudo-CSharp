@@ -41,3 +41,11 @@
 * Enunciado:
     ![Enunciado](https://i.imgur.com/ZmUqSgf.png)
 * Solução [ATV8](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV8)
+
+## ATV 9
+* Enunciado:
+    ![Enunciado](https://i.imgur.com/5RjjZTx.png)
+* Solução [ATV9](https://github.com/zMaarrco/Estudo-CSharp/tree/main/ATV9)
+    1. O FOR e WHILE são ambos laços de repetição porém o WHILE é utilizado quando não se tem um número exato de iterações que ocorrem, diferente do FOR que é usado quando se sabe o número de iterações.
+    2. O FOREACH difere do FOR pois ele não especifica uma condição, ele simplesmente varre uma coleção de dados do inicio ao fim.
+    3. Quando é preciso varrer toda uma coleção de dados do inicio ao fim.
