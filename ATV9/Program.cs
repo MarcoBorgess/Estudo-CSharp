@@ -6,9 +6,10 @@ namespace ATV9
     {
         static void Main(string[] args)
         {
-            Math matematica = new Math();
-            int[] resultados = new int[5];
+            Math matematica = new Math(); //Instanciar a classe
+            int[] resultados = new int[5]; // Criar a array
 
+                                    // Resultado Esperado:
             resultados[0] = matematica.soma(1, 9); // 10
             resultados[1] = matematica.sub(20, 9); // 11
             resultados[2] = matematica.div(24, 2); // 12
