@@ -1,0 +1,13 @@
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.csprojAssemblyReference.cache
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+C:\xampp\htdocs\C#\Estudo-CSharp\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
